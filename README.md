@@ -1,4 +1,4 @@
-# QR Mobile Vision
+# QR Mobile Vision<To Do google mobile Vision api>
 
 ![pub package][version_badge]
 
